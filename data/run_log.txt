@@ -30,3 +30,11 @@ Candidate: Aisha Okonkwo | Score: 6.1 | review
 Candidate: Carlos Mendez | Score: 5.4 | review
 Candidate: KU Unnati Yadav | Score: 5.1 | review
 Candidate: James Whitfield | Score: 3.6 | no-hire
+
+==================================================
+Run Time: 2026-05-11 19:56:51
+Candidate: Priya Sharma | Score: 8.9 | hire
+Candidate: Mei-Ling Chen | Score: 8.9 | hire
+Candidate: Carlos Mendez | Score: 6.0 | review
+Candidate: Aisha Okonkwo | Score: 6.0 | review
+Candidate: James Whitfield | Score: 3.6 | no-hire
