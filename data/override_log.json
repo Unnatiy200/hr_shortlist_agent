@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp": "2026-05-11 03:45:42",
+    "hr_user": "HR",
+    "candidate": "Carlos Mendez",
+    "dimension": "skills_match",
+    "old_score": 6,
+    "new_score": 8,
+    "reason": "HR verified candidate has additional skills not listed on profile",
+    "new_total": 6.6,
+    "new_recommendation": "review"
+  }
+]
