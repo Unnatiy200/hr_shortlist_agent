@@ -1,0 +1,24 @@
+Senior Machine Learning Engineer
+
+We are looking for a Senior ML Engineer to join our AI Platform team.
+You will design, build, and deploy large-scale ML systems that power
+our core product recommendations and search ranking.
+
+Requirements:
+- 5+ years of experience in machine learning engineering
+- Strong Python skills (NumPy, Pandas, Scikit-learn, PyTorch or TensorFlow)
+- Experience with LLMOps: fine-tuning, RAG pipelines, prompt engineering,
+  vector databases (Pinecone, Weaviate)
+- Familiarity with MLflow, Kubeflow, or similar MLOps tooling
+- Experience deploying models to production (Docker, Kubernetes,
+  AWS SageMaker or GCP Vertex AI)
+- Strong knowledge of data structures, algorithms, and system design
+- Excellent written and verbal communication
+
+Nice to have:
+- Published research or open-source contributions
+- Experience with distributed training (DeepSpeed, FSDP)
+- Master's or PhD in CS, Statistics, or related field
+
+Compensation: $180k-$220k + equity
+Location: Remote / San Francisco
