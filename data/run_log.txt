@@ -46,3 +46,62 @@ Candidate: Mei-Ling Chen | Score: 6.55 | review
 Candidate: Aisha Okonkwo | Score: 6.1 | review
 Candidate: Carlos Mendez | Score: 5.4 | review
 Candidate: James Whitfield | Score: 4.1 | no-hire
+
+==================================================
+Run Time: 2026-05-11 20:30:24
+Candidate: KU Unnati Yadav | Score: 5.1 | review
+Candidate:  | Score: 3.9 | no-hire
+Candidate: Rushil Goel | Score: 3.6 | no-hire
+Candidate: Akshit Gulati | Score: 1.9 | no-hire
+Candidate: Akshat Awasthi | Score: 1.7 | no-hire
+
+==================================================
+Run Time: 2026-05-11 20:48:11
+Candidate: KU Unnati Yadav | Score: 5.1 | review
+Candidate:  | Score: 3.9 | no-hire
+Candidate: Rushil Goel | Score: 3.3 | no-hire
+Candidate: Akshit Gulati | Score: 2.5 | no-hire
+Candidate: Akshat Awasthi | Score: 1.7 | no-hire
+
+==================================================
+Run Time: 2026-05-11 20:52:10
+Candidate: Priya Sharma | Score: 9.0 | hire
+Candidate: Mei-Ling Chen | Score: 6.55 | review
+Candidate: Aisha Okonkwo | Score: 6.1 | review
+Candidate: Carlos Mendez | Score: 5.4 | review
+Candidate: KU Unnati Yadav | Score: 5.1 | review
+Candidate: James Whitfield | Score: 4.1 | no-hire
+Candidate:  | Score: 3.9 | no-hire
+Candidate: RUSHIL GOEL | Score: 3.6 | no-hire
+Candidate: Akshit Gulati | Score: 1.9 | no-hire
+Candidate: Akshat Awasthi | Score: 1.7 | no-hire
+
+==================================================
+Run Time: 2026-05-11 22:28:00
+Candidate: Priya Sharma | Score: 9.0 | hire
+Candidate: Mei-Ling Chen | Score: 6.55 | review
+Candidate: Aisha Okonkwo | Score: 6.1 | review
+Candidate: Carlos Mendez | Score: 5.4 | review
+Candidate: KU Unnati Yadav | Score: 5.1 | review
+Candidate: James Whitfield | Score: 4.1 | no-hire
+Candidate:  | Score: 3.9 | no-hire
+Candidate: Rushil Goel | Score: 3.6 | no-hire
+Candidate: Akshat Awasthi | Score: 1.9 | no-hire
+Candidate: Akshit Gulati | Score: 1.9 | no-hire
+
+==================================================
+Run Time: 2026-05-11 23:00:12
+Candidate: Priya Sharma | Score: 9.0 | hire
+Candidate: Mei-Ling Chen | Score: 6.5 | review
+Candidate: Aisha Okonkwo | Score: 6.1 | review
+Candidate: KU Unnati Yadav | Score: 5.1 | review
+Candidate: Carlos Mendez | Score: 5.0 | review
+Candidate: James Whitfield | Score: 4.1 | no-hire
+Candidate:  | Score: 3.9 | no-hire
+Candidate: Rushil Goel | Score: 3.6 | no-hire
+Candidate: Akshit Gulati | Score: 1.9 | no-hire
+Candidate: Akshat Awasthi | Score: 1.7 | no-hire
+
+==================================================
+Run Time: 2026-06-05 12:55:34
+Candidate: Unnati Yadav | Score: 5.4 | review

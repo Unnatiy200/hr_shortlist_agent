@@ -9,5 +9,38 @@
     "reason": "HR verified candidate has additional skills not listed on profile",
     "new_total": 6.6,
     "new_recommendation": "review"
+  },
+  {
+    "timestamp": "2026-05-11 20:50:35",
+    "hr_user": "HR",
+    "candidate": "KU Unnati Yadav",
+    "dimension": "skills_match",
+    "old_score": 6,
+    "new_score": 5,
+    "reason": "Lacks advanced backend experience",
+    "new_total": 4.8,
+    "new_recommendation": "no-hire"
+  },
+  {
+    "timestamp": "2026-05-11 20:50:53",
+    "hr_user": "HR",
+    "candidate": "KU Unnati Yadav",
+    "dimension": "experience_relevance",
+    "old_score": 0,
+    "new_score": 5,
+    "reason": "Lacks advanced backend experience",
+    "new_total": 6.05,
+    "new_recommendation": "review"
+  },
+  {
+    "timestamp": "2026-05-11 23:01:03",
+    "hr_user": "HR",
+    "candidate": "Priya Sharma",
+    "dimension": "skills_match",
+    "old_score": 8,
+    "new_score": 5,
+    "reason": "candidate has strong internship and production level projects",
+    "new_total": 8.1,
+    "new_recommendation": "hire"
   }
 ]
